@@ -1,0 +1,7 @@
+{
+    "parent": "terracraft:item/molten_fury",
+    "textures":
+    {
+        "layer0": "terracraft:item/molten_fury_pulling_2"
+    }
+}

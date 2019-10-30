@@ -1,0 +1,18 @@
+[30oct.2019 23:23:37.487] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 25.0.219, --fml.mcpVersion, 20190213.203750, --fml.mcVersion, 1.13.2, --fml.forgeGroup, net.minecraftforge]
+[30oct.2019 23:23:37.492] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher starting: java version 1.8.0_201
+[30oct.2019 23:23:38.536] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30oct.2019 23:23:39.405] [main/FATAL] [net.minecraftforge.fml.loading.FMLCommonLaunchHandler/CORE]: Failed to find forge version 25.0.219 for MC 1.13.2 at C:\Users\Alexandre\.gradle\caches\modules-2\net\minecraftforge\forge\1.13.2-25.0.219\forge-1.13.2-25.0.219-universal.jar
+[30oct.2019 23:23:39.438] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: java.lang.RuntimeException: Missing forge!
+[30oct.2019 23:23:39.439] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.loading.FMLCommonLaunchHandler.validatePaths(FMLCommonLaunchHandler.java:113)
+[30oct.2019 23:23:39.440] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.loading.FMLLoader.setupLaunchHandler(FMLLoader.java:185)
+[30oct.2019 23:23:39.440] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:82)
+[30oct.2019 23:23:39.440] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:43)
+[30oct.2019 23:23:39.440] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$5(TransformationServicesHandler.java:73)
+[30oct.2019 23:23:39.441] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.util.HashMap$Values.forEach(Unknown Source)
+[30oct.2019 23:23:39.441] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:73)
+[30oct.2019 23:23:39.441] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:34)
+[30oct.2019 23:23:39.442] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:54)
+[30oct.2019 23:23:39.442] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:44)
+[30oct.2019 23:23:39.442] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63)
+[30oct.2019 23:23:39.443] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60)
+[30oct.2019 23:23:39.443] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57)

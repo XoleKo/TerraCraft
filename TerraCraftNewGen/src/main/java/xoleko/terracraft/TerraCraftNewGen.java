@@ -268,6 +268,7 @@ public class TerraCraftNewGen
 						ItemList.copper_bow = new ItemCustomBow(ToolMaterialList.copper_bow, -1, 6.0f, new Item.Properties().maxStackSize(1).group(terrabows)).setRegistryName(location("copper_bow")),
 						ItemList.lead_bow = new ItemCustomBow(ToolMaterialList.lead_bow, -1, 6.0f, new Item.Properties().maxStackSize(1).group(terrabows)).setRegistryName(location("lead_bow")),
 						ItemList.boreal_wood_bow = new ItemCustomBow(ToolMaterialList.boreal_wood_bow, -1, 6.0f, new Item.Properties().maxStackSize(1).group(terrabows)).setRegistryName(location("boreal_wood_bow")),
+						ItemList.molten_fury = new ItemCustomBow(ToolMaterialList.molten_fury, -1, 6.0f, new Item.Properties().maxStackSize(1).group(terrabows)).setRegistryName(location("molten_fury")),
 
 
 					    //TerraCraftFishingPolesPreHardmode
