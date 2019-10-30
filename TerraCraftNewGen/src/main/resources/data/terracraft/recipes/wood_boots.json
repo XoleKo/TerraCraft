@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		"P P",
+		"P P"
+		
+	],
+	
+	"key":
+	{
+		"P": { "item": "terracraft:wood_block" }
+	},
+	
+	"result": { "item": "terracraft:wood_boots" }
+}

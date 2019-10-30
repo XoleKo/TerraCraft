@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": 
+    {
+        "layer0": "terracraft:item/palm_wood_sword"
+    }
+}

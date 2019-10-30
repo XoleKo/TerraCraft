@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		" P ",
+		"PPP",
+		" S "
+	],
+	
+	"key":
+	{
+		"P": { "item": "terracraft:gold_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:gold_broadsword_sword" }
+}

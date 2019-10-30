@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "terracraft:block/wood_block" }
+    }
+}

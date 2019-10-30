@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   "CC",
+	   "CS",
+	   " S"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:meteorite_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:meteor_hamaxe_axe" }
+}

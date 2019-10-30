@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		"P",
+		"P",
+		"S"
+	],
+	
+	"key":
+	{
+		"P": { "item": "terracraft:crimtane_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:blood_butcherer_sword" }
+}

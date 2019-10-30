@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "terracraft:lead_ore_block" },
+	"result": "terracraft:lead_bar_item",
+	"experience": 2.3,
+	"cookingtime": 200
+}

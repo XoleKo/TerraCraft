@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+loaderVersion="[25,)" #mandatory (24 is current forge version)
+[[mods]] #mandatory
+# The modid of the mod
+modId="terracraft" #mandatory
+version="1.0" #mandatory
+displayName="TerraCraft" #mandatory
+updateJSONURL="http://myurl.me/" #optional
+displayURL="http://example.com/" #optional
+logoFile="examplemod.png" #optional
+credits="XoleKo, Hugman Le Prof" #optional
+authors="XoleKo" #optional
+description='''
+This is Terraria in Minecraft #BestDescription
+'''
+[[dependencies.terracraft]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[25,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.terracraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.13.2]"
+    ordering="NONE"
+    side="BOTH"

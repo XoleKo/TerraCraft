@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   " CS",
+	   "C S",
+	   " CS"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:crimtane_bar_item" },
+		"S": { "item": "terracraft:string_crimtane" }
+	},
+	
+	"result": { "item": "terracraft:tendon_bow" }
+}

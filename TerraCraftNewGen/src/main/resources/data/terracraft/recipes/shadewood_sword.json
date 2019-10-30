@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		"P",
+		"P",
+		"S"
+	],
+	
+	"key":
+	{
+		"P": { "item": "terracraft:shadewood_block" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:shadewood_sword" }
+}

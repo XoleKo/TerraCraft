@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "terracraft:gold_ore_block" },
+	"result": "terracraft:gold_bar_item",
+	"experience": 2.3,
+	"cookingtime": 200
+}

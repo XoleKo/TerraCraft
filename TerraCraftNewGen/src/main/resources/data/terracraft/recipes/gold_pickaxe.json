@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   "CCC",
+	   " S ",
+	   " S "
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:gold_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:gold_pickaxe" }
+}

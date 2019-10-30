@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "terracraft:item/iron_bar_item"
+    }
+}

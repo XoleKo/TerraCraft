@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_all",
+    "textures": 
+
+    {
+        "all": "terracraft:block/crimtane_ore_block"
+    }
+}

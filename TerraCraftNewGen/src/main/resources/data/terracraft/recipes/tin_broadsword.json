@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		" P ",
+		"PPP",
+		" S "
+	],
+	
+	"key":
+	{
+		"P": { "item": "terracraft:tin_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:tin_broadsword_sword" }
+}

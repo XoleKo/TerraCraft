@@ -1,0 +1,7 @@
+{
+    "parent": "terracraft:item/wooden_bow",
+    "textures":
+    {
+        "layer0": "terracraft:item/wooden_bow_pulling_2"
+    }
+}

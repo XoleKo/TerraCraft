@@ -1,0 +1,7 @@
+{
+    "parent": "terracraft:item/ebonwood_bow",
+    "textures":
+    {
+        "layer0": "terracraft:item/ebonwood_bow_pulling_0"
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		"GPG",
+		"GPG",
+		"MSM"
+	],
+	
+	"key":
+	{
+		"P": { "item": "terracraft:amethyst_item" },
+		"S": { "item": "terracraft:meteorite_bar_item" },
+		"M": { "item": "terracraft:iron_bar_item"},
+		"G": { "item": "terracraft:glass"}
+	},
+	
+	"result": { "item": "terracraft:phasesaber_purple_sword" }
+}

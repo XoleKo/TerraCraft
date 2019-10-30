@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		"L",
+		"L",
+		"S"
+	],
+	
+	"key":
+	{
+		"L": { "item": "terracraft:lead_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:lead_shortsword_sword" }
+}

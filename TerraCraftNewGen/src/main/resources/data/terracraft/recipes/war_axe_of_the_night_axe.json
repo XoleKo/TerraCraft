@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   "CC",
+	   "CS",
+	   " S"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:demonite_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:war_axe_of_the_night_axe" }
+}

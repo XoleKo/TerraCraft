@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		" T ",
+		"TTT",
+		" S "
+	],
+	
+	"key":
+	{
+		"T": { "item": "terracraft:tungsten_bar_item" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:tungsten_broadsword_sword" }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   "CCC",
+	   " S ",
+	   " S "
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:cactus_block" },
+		"S": { "item": "minecraft:stick" }
+		
+	},
+	
+	"result": { "item": "terracraft:cactus_pickaxe" }
+}

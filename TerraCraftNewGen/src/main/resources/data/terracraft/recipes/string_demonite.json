@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		" S ",
+		"SPS",
+		" S "
+	],
+	
+	"key":
+	{
+		"P": { "item": "minecraft:string" },
+		"S": { "item": "terracraft:demonite_nuggets" }
+	},
+	
+	"result": { "item": "terracraft:string_demonite" }
+}

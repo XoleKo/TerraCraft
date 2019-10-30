@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   " CS",
+	   "C S",
+	   " CS"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:boreal_wood_block" },
+		"S": { "item": "minecraft:string" }
+	},
+	
+	"result": { "item": "terracraft:boreal_wood_bow" }
+}

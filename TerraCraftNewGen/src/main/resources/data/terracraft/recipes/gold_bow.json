@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   " CS",
+	   "C S",
+	   " CS"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:gold_bar_item" },
+		"S": { "item": "terracraft:string_gold" }
+	},
+	
+	"result": { "item": "terracraft:gold_bow" }
+}

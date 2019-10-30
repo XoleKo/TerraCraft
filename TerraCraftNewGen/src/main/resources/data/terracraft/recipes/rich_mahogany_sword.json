@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+		"P",
+		"P",
+		"S"
+	],
+	
+	"key":
+	{
+		"P": { "item": "terracraft:rich_mahogany_block" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "terracraft:rich_mahogany_sword" }
+}

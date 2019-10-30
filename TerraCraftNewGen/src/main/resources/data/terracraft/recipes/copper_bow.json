@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   " CS",
+	   "C S",
+	   " CS"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:copper_bar_item" },
+		"S": { "item": "terracraft:string_copper" }
+	},
+	
+	"result": { "item": "terracraft:copper_bow" }
+}

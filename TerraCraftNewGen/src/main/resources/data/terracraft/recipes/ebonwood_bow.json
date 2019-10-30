@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   " CS",
+	   "C S",
+	   " CS"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:ebonwood_block" },
+		"S": { "item": "minecraft:string" }
+	},
+	
+	"result": { "item": "terracraft:ebonwood_bow" }
+}

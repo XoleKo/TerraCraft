@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": 
+    {
+        "layer0": "terracraft:item/phasesaber_white_sword"
+    }
+}

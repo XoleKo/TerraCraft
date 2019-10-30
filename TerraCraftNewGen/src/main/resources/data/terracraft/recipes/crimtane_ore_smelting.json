@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "terracraft:crimtane_ore_block" },
+	"result": "terracraft:crimtane_bar_item",
+	"experience": 2.3,
+	"cookingtime": 200
+}

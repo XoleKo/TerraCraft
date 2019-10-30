@@ -1,0 +1,7 @@
+{
+    "parent": "terracraft:item/tendon_bow",
+    "textures":
+    {
+        "layer0": "terracraft:item/tendon_bow_pulling_0"
+    }
+}

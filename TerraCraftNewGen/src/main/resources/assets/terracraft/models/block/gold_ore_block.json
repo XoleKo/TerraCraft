@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_all",
+    "textures": 
+
+    {
+        "all": "terracraft:block/gold_ore_block"
+    }
+}

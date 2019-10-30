@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern":
+	[
+	   " CS",
+	   "C S",
+	   " CS"
+	],
+	
+	"key":
+	{
+		"C": { "item": "terracraft:tungsten_bar_item" },
+		"S": { "item": "terracraft:string_tungsten" }
+	},
+	
+	"result": { "item": "terracraft:tungsten_bow" }
+}

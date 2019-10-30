@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "terracraft:fiery_greatsword_sword"},
+		{ "item": "terracraft:muramasa_sword"},
+		{ "item": "terracraft:blade_of_grass_sword"},
+		{ "item": "terracraft:lights_bane_sword"}
+	],
+
+	"result": { "item": "terracraft:nights_edge_sword"}
+}
